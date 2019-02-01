@@ -1,0 +1,10 @@
+com.nlapin.youthsongs
+com.nlapin.youthsongs.data
+com.nlapin.youthsongs.di.app
+com.nlapin.youthsongs.models
+com.nlapin.youthsongs.ui
+com.nlapin.youthsongs.ui.favsonglist
+com.nlapin.youthsongs.ui.home
+com.nlapin.youthsongs.ui.main
+com.nlapin.youthsongs.ui.settings
+com.nlapin.youthsongs.ui.song
